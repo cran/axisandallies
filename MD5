@@ -1,0 +1,16 @@
+8a2fd8de8a6c578251c80906f349bf7d *DESCRIPTION
+6bb8c7ba1e644f6f8b3d9c182a01da89 *LICENSE
+2f69d1fd0d991b4f39dd9656623fe1be *NAMESPACE
+3dc07ff333d95ddd0c335d1107fe328c *R/buy_units.R
+94afbe80efcfb6c014f93cc8de222aae *R/info_units.R
+8af2c01bb9817110cf2096fe2916673a *R/land_battle.R
+f7d25a86cc50a51a0a59fa0f99099163 *R/land_simulate.R
+336ab12da166873c5cebaaf3eb92cce6 *R/land_simulate_hidden.R
+81165e37869946701377adaf6a557122 *R/raid_battle.R
+dcbfadf4edd6c197c0ca5f8b6dfd0093 *R/sea_round.R
+d0b32f94b49b4474e9f2c79aac1eb50d *man/buy_units.Rd
+1a6910961869cd53d48b1d06f70c2433 *man/info_units.Rd
+7790db3b3fb45e13b2c4b8ccdbaac5fb *man/land_battle.Rd
+8e5eaa41e5b94b5e92b9bc4b74fe5d65 *man/land_simulate.Rd
+78ce763e1c41ffa7cae80d3b4ddcabf8 *man/raid_battle.Rd
+ccad838a2bdb4c7c2f5b9e7c657d43c0 *man/sea_round.Rd
